@@ -1,4 +1,5 @@
 export TLPI_PATH="/root/lib/tlpi-dist"
+alias python3="python3.6"
 function glink(){
     if [ $# -ne 1 ]
     then
